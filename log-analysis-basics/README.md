@@ -8,7 +8,7 @@ patterns can be noticed.
 Publicly available log samples (openssh from https://github.com/logpai/loghub)
 
 ## What i observed
-- 6 failed login attempts between 7:27:52-7:28:05.
+- 5 failed login attempts between 7:27:52-7:28:03.
 - IP:112.95.230.3 appears more than others and more than once.
   
 ## What i learned
