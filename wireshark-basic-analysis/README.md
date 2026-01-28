@@ -9,7 +9,7 @@ This lab is an introduction to Wireshark to become familiar with how normal netw
 - A single click to visit a web-page can generate a large amount of network traffic.
 - There are many HTTP POST requests when data is sent from the client to the server.
 
-## What i learned
+## What i Learned
 - How normal HTTP traffic looks like.
 - The difference between HTTP request types (GET/POST)
   
