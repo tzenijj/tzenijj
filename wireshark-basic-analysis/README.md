@@ -19,7 +19,7 @@ This lab is an introduction to Wireshark to become familiar with how normal netw
 - POST: submit data from client to server.
 
 
-- 
+  
 
   
 
