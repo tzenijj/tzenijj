@@ -19,7 +19,7 @@ The router performs Inter-VLAN routing using Router-on-a-Stick configuration.
 4. Configure router-on-a-stick.
 5. Configure IP addresses to PCs (IPv4 and default gateway)
 
-##VERIFICATION COMMANDS in every step
+##VERIFICATION COMMANDS in every step:
  show vlan brief
  show interfaces trunk
  show ip interface brief
