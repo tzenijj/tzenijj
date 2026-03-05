@@ -20,10 +20,10 @@ The router performs Inter-VLAN routing using Router-on-a-Stick configuration.
 5. Configure IP addresses to PCs (IPv4 and default gateway)
 
 ##VERIFICATION COMMANDS in every step
-1 and 2: show vlan brief
-3. show interfaces trunk
-4. show ip interface brief
-5. Ping  to test connectivity from PC0 to PC1 (same vlan) and from PC0 to PC3 (inter-vlan)
+ show vlan brief
+ show interfaces trunk
+ show ip interface brief
+ Ping  to test connectivity from PC0 to PC1 (same vlan) and from PC0 to PC3 (inter-vlan)
    
 
    
