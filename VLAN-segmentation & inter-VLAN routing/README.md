@@ -26,4 +26,14 @@ The router performs Inter-VLAN routing using Router-on-a-Stick configuration.
  Ping  to test connectivity from PC0 to PC1 (same vlan) and from PC0 to PC3 (inter-vlan)
    
 
+
+
+
+
+
+
+
+
+
+
    
