@@ -9,7 +9,7 @@ This lab simulates a small pharmacy system to practice Linux system administrati
 - Configure access controls
 - Validate user access
 
-  ## Role-Based Access Control
+## Role-Based Access Control
   
 **Pharmacists**
 - Directory: prescriptions
