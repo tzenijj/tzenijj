@@ -11,7 +11,14 @@ This lab simulates a small pharmacy system to practice Linux system administrati
 
   ## Role-Based Access Control
   
-ROLE            DIRECTORY        PERMISSIONS
-Pharmacists     prescriptions    read, write, execute
-Assistants	    inventory	       read, write, execute
-Billing        	invoices	       read, write, execute
+**Pharmacists**
+- Directory: prescriptions
+- Permissions: read, write, execute
+
+**Assistants**
+- Directory: inventory
+- Permissions: read, write, execute
+
+**Billing**
+- Directory: invoices
+- Permissions: read, write, execute
